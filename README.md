@@ -9,6 +9,13 @@
 <img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/a43ea1ed-cd77-429a-84b4-e4307b302046">
 <br></br>
 # Aula 2: Melhores técnicas em Engenharia de Prompt
+**Desafio 1:** Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real;
+<br></br>
+<img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/21c7950a-5af1-4f2f-811e-e267855c2f2d">
+<br></br>
+**Desafio 2:** Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título. Veja se existe alguma técnica ou padrão;
+<br></br>
+<img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/1b4c8040-7dd2-4eb7-8f2b-501ebc97612d">
 <br></br>
 # Aula 3: Explorando os parâmetros do Google AI Studio
 <br></br>
