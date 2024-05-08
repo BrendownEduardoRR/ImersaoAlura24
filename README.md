@@ -18,7 +18,15 @@
 <img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/1b4c8040-7dd2-4eb7-8f2b-501ebc97612d">
 <br></br>
 # Aula 3: Explorando os parâmetros do Google AI Studio
+**Desafio 1:** Criar seu próprio áudio e realizar um prompt para análise pelo Google AI Studio;
 <br></br>
+**PROMPT:** Cite em tópicos o que é verdade e o que é mito no áudio anexado a mensagem.
+<br></br>
+<img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/9afd4553-23e9-4142-8fce-fbe65764e266">
+<br></br>
+**Desafio 2:** Pesquise como colocar a imagem do Google AI Studio dentro do código de Pyhton no Google Colab e pegue os códigos que não contenham imagens do AI Studio e exporte para o Google Colab.
+<br></br>
+<img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/8e6242c8-2ccf-4972-b87c-fc4cda299c56">
 # Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
 <br></br>
 # Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
