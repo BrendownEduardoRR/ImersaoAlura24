@@ -28,8 +28,9 @@
 <br></br>
 <img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/8e6242c8-2ccf-4972-b87c-fc4cda299c56">
 # Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
-<br></br>
+🔒 **Aula não liberada; Volte aqui 09/05** 🔒
 # Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
+🔒 **Aula não liberada; Volte aqui 10/05** 🔒
 <hr>
 
 
