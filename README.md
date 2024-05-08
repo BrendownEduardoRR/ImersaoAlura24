@@ -31,7 +31,19 @@
 🔒 **Aula não liberada; Volte aqui 09/05** 🔒
 # Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
 🔒 **Aula não liberada; Volte aqui 10/05** 🔒
+
+# Live 2: Mergulhe em Python: Prepare-se para criar o seu chatbot
+
+<div align="center">
+  <img align="center" alt="Brendown-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Brendown-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Brendown-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+<h3> Aprendemos o básico dos básicos sobre Python, para mandar a ver no projeto, que amanhã será divulgado!! Estou muito ansioso por isso!!</h3>
 <hr>
+
+
+
 
 
 
