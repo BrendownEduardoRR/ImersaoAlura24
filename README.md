@@ -1,6 +1,4 @@
 # Imersão Alura | Inteligência Artificial 
-# Acesse o projeto da aula 04 e 05!!
-O projeto será liberado no final da tarde do dia 09/05 **quinta-feira** (🔒)
 # Aula 1: Mergulhando no Gemini, a IA do Google
 **Desafio 1:** Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você;
 <br></br>
@@ -30,7 +28,10 @@ O projeto será liberado no final da tarde do dia 09/05 **quinta-feira** (🔒)
 <br></br>
 <img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/8e6242c8-2ccf-4972-b87c-fc4cda299c56">
 # Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
-🔒 **Aula não liberada; Volte aqui 09/05** 🔒
+**Desafio:** A criação do chatbot *anexado ao repositório*
+<br></br>
+<img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/2327589a-2096-4103-bd95-8747afda1377">
+<br></br>
 # Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
 🔒 **Aula não liberada; Volte aqui 10/05** 🔒
 
