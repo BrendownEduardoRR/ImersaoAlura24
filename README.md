@@ -1,4 +1,6 @@
 # Imersão Alura | Inteligência Artificial 
+# Acesse o projeto da aula 04 e 05!!
+O projeto será liberado no final da tarde do dia 09/05 **quinta-feira** (🔒)
 # Aula 1: Mergulhando no Gemini, a IA do Google
 **Desafio 1:** Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você;
 <br></br>
