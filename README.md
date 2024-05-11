@@ -33,7 +33,10 @@
 <img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/2327589a-2096-4103-bd95-8747afda1377">
 <br></br>
 # Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
-🔒 **Aula não liberada; Volte aqui 10/05** 🔒
+**Desafio:** Embeddings *anexado ao repositório* 
+<br></br>
+<img src="https://github.com/BrendownEduardoRR/ImersaoAlura24/assets/169079556/2327589a-2096-4103-bd95-8747afda1377">
+<br></br>
 
 # Live 2: Mergulhe em Python: Prepare-se para criar o seu chatbot
 
